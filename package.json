@@ -1,0 +1,24 @@
+{
+  "name": "scrape-emails",
+  "version": "1.0.0",
+  "description": "The code to scrape emails from a website.",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamzaatalif/scrape-emails.git"
+  },
+  "keywords": [
+    "nodejs",
+    "puppeteer",
+    "scrape"
+  ],
+  "author": "Hamza Imranist (https://imranist.me)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamzaatalif/scrape-emails/issues"
+  },
+  "homepage": "https://github.com/hamzaatalif/scrape-emails#readme"
+}
